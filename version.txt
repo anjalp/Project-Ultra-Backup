@@ -1,0 +1,17 @@
+------------------------------------------------------PROJECT ULTRA BACKUP--------------------------------------------------
+
+VERSION INFORMATION
+
+
+Ultra Backup v1.1.0(x64) : Bugs Resolved: Autoupdate Drive Letter Bug and Startup Bug, ... 2 more.
+	New Features: Displayes the currently Backuping folder, files during the process for the Simple Backup
+		      Increased Stability of AutoUpdate.  
+	Release : 20/07/2020
+	Made using: Python 3.8, compile by pyinstaller 3.6 & Inno setup compiler
+
+Ultra Backup v1.0.0(x64) : Base version first released  
+	Features: PC, ANDROID Backup
+		  Cryptic and Simple Backup Methodes
+		  Create, Update and Restore the Backups
+	Release : 21/04/2020
+	Made Using : Python 3.6 compiled by pyinstaller 3.4 & inno setup compiler
