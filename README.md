@@ -1,4 +1,5 @@
 # PROJECT ULTRA BACKUP
+![GitHub](https://img.shields.io/github/license/anjalp/project-ultra-backup?logo=GitHub) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/anjalp/project-ultra-backup?logo=GitHub) ![GitHub Release Date](https://img.shields.io/github/release-date/anjalp/project-ultra-backup?color=%23FF8C00&logo=GitHub) ![GitHub issues](https://img.shields.io/github/issues/anjalp/project-ultra-backup?color=%23CCCC00&logo=GitHub) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anjalp/project-ultra-backup?logo=GitHub) ![GitHub top language](https://img.shields.io/github/languages/top/anjalp/project-ultra-backup?color=%2300008B&logo=Github) 
 
 ## INTRODUCTION
 This software builton python with native library, which can be used to backup, update
