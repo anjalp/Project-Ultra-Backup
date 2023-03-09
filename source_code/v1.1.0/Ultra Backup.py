@@ -3,7 +3,7 @@ import time
 from cryptography.fernet import Fernet as fn
 import json
 from win32com.client import Dispatch
-from win32com.shell import shell, shellcon
+from win32com.client import shell, shellcon
 
 import createCryptic as cb
 import updateCryptic as ub
@@ -31,7 +31,7 @@ import autoTools as aT
 def createShortcut(path, target='', wDir='', icon=''):    #code taken from:  https://www.blog.pythonlibrary.org/2010/01/23/using-python-to-create-shortcuts/
     ext = path[-3:]                                     # AUTHOR: @driscollis thanking him for the wonderful tutorial in creating a shortcut in python.
     if ext == 'url':
-        shortcut = file(path, 'w')
+        shortcut.file(path, 'w')
         shortcut.write('[InternetShortcut]\n')
         shortcut.write('URL=%s' % target)
         shortcut.close()
